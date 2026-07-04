@@ -176,7 +176,7 @@ def plot_threshold_stacked_bar(threshold_monthly_means, output_path=None):
     ax.set_xlabel("Month", fontsize=12)
     ax.set_ylabel("Average Days per Month", fontsize=12)
     ax.set_title(
-        "Monthly Rainy Days by Intensity Category (1981–2023 Climatology)",
+        "Monthly Rainy Days by Intensity Category (1985–2024 Climatology)",
         fontsize=14,
         fontweight="bold",
     )
